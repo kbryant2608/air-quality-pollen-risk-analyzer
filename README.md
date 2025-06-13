@@ -54,3 +54,16 @@ A portfolio-ready case study showing end-to-end data analysis capability with a 
 
 Made by Karissa Bryant<br>
 Let’s build beautiful data together 🌱
+
+---
+
+### 💡 Need Help Customizing This for Your Research or Business?
+
+I specialize in data extraction, web scraping, and building custom Python tools for research, finance, and automation. If you’d like:
+
+- A tailored version of this script
+- Help applying it to your own dataset
+- Ongoing support with similar projects
+
+📬 [Click here to hire me on Fiverr](https://www.fiverr.com/silentbillionai)
+
