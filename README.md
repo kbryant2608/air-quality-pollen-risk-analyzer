@@ -52,5 +52,5 @@ A portfolio-ready case study showing end-to-end data analysis capability with a 
 
 ## 🔗 Project Author
 
-Made by Karissa Bryant
+Made by Karissa Bryant<br>
 Let’s build beautiful data together 🌱
