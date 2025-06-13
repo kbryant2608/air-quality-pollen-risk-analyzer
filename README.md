@@ -29,9 +29,11 @@ This project transforms messy environmental data into clean, decision-ready insi
 
 ## 📂 Files Included
 
+- `raw_data/Air_Quality_and_Pollen_Count.csv` – Original dataset (optional)
 - `Air_Quality_Pollen_Risk_Analyzer.ipynb` – Full walkthrough notebook
 - `cleaned_air_quality_pollen.csv` – Final cleaned dataset
--  Notion Executive Summary Template - https://zealous-point-0f5.notion.site/Air-Quality-and-Pollen-Risk-Analyzer-21113f10788080379064fc6c7beeeaa6?source=copy_link
+- [📝 Executive Summary on Notion](https://zealous-point-0f5.notion.site/Air-Quality-and-Pollen-Risk-Analyzer-21113f10788080379064fc6c7beeeaa6?source=copy_link)
+
 
 ---
 
